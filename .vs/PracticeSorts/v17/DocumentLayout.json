@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Practice\\PracticeSorts\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{016F65C6-809F-47A4-9E1A-4A9A38D22618}|PracticeSorts\\PracticeSorts.csproj|c:\\users\\user\\onedrive\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\my codes\\webiks\\c#\\practice\\practicesorts\\practicesorts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016F65C6-809F-47A4-9E1A-4A9A38D22618}|PracticeSorts\\PracticeSorts.csproj|solutionrelative:practicesorts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 176,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Practice\\PracticeSorts\\PracticeSorts\\Program.cs",
+              "RelativeDocumentMoniker": "PracticeSorts\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Practice\\PracticeSorts\\PracticeSorts\\Program.cs",
+              "RelativeToolTip": "PracticeSorts\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAQwAYAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T07:13:25.865Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
